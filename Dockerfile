@@ -25,4 +25,4 @@ WORKDIR /root
 COPY ./c4_sample .
 
 # Define default command.
-CMD [ "bash", "c4builder site" ]
+CMD ["c4builder site" ]
