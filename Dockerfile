@@ -6,9 +6,10 @@ RUN \
   sed -i 's/# \(.*multiverse$\)/\1/g' /etc/apt/sources.list && \
   apt-get update && \
   apt-get -y upgrade && \
-  apt-get install -y curl && \
-  curl -fsSL https://deb.nodesource.com/setup_18.x | -E bash - && \
+  # apt-get install -y curl && \
+  # curl -fsSL https://deb.nodesource.com/setup_18.x | -E bash - && \
   apt-get install -y nodejs && \
+  apt-get install -y npm && \
   apt-get install -y default-jre && \
   apt-get install -y default-jdk && \
   apt-get install -y graphviz && \
