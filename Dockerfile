@@ -6,15 +6,14 @@ RUN \
   sed -i 's/# \(.*multiverse$\)/\1/g' /etc/apt/sources.list && \
   apt-get update && \
   apt-get -y upgrade && \
-  rm -rf /var/lib/apt/lists/*
-#   apt-get install -y default-jre && \
-#   apt-get install -y default-jdk && \
-#   apt-get install -y curl && \
-#   curl -fsSL https://deb.nodesource.com/setup_18.x | -E bash - && \
-#   apt-get install -y nodejs && \
-#   apt-get install -y graphviz && \
-#   rm -rf /var/lib/apt/lists/* && \
-#   npm i -g c4builder
+  apt-get install -y curl && \
+  curl -fsSL https://deb.nodesource.com/setup_18.x | -E bash - && \
+  apt-get install -y nodejs && \
+  apt-get install -y default-jre && \
+  apt-get install -y default-jdk && \
+  apt-get install -y graphviz && \
+  rm -rf /var/lib/apt/lists/* && \
+  npm i -g c4builder
   
 # Set environment variables.
 ENV HOME /root
