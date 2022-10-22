@@ -8,6 +8,8 @@ RUN \
   apt-get -y upgrade && \
   apt-get install -y default-jre && \
   apt-get install -y default-jdk && \
+  apt-get install -y curl && \
+  curl -fsSL https://deb.nodesource.com/setup_18.x | -E bash - && \
   apt-get install -y nodejs && \
   apt-get install -y graphviz && \
   rm -rf /var/lib/apt/lists/* && \
