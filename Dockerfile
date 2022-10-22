@@ -33,10 +33,19 @@
 
 FROM openjdk:11
 
-RUN curl -fsSL https://deb.nodesource.com/setup_17.x | bash -
+RUN curl -fsSL https://deb.nodesource.com/setup_18.x | bash -
 RUN apt-get update && apt-get install -y nodejs graphviz chromium xvfb
 
 RUN npm i -g c4builder
+
+# Set environment variables.
+ENV HOME /root
+
+# Define working directory.
+WORKDIR /root
+
+# Copy local directory to workdir
+COPY ./c4_sample .
     
 # ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true \
 #     PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium.sh
