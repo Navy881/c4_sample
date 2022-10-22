@@ -1,0 +1,30 @@
+{
+	"projectName": "c4_sample",
+	"homepageName": "Overview",
+	"rootFolder": "src",
+	"distFolder": "docs",
+	"generateMD": false,
+	"generatePDF": false,
+	"generateCompleteMD": false,
+	"generateCompletePDF": false,
+	"generateWEB": true,
+	"webTheme": "//unpkg.com/docsify/lib/themes/vue.css",
+	"supportSearch": true,
+	"repoUrl": "",
+	"docsifyTemplate": "",
+	"webPort": "5001",
+	"plantumlVersion": "latest",
+	"includeBreadcrumbs": true,
+	"includeLinkToDiagram": false,
+	"diagramsOnTop": true,
+	"embedDiagram": true,
+	"excludeOtherFiles": false,
+	"generateLocalImages": true,
+	"plantumlServerUrl": "https://www.plantuml.com/plantuml",
+	"diagramFormat": "svg",
+	"charset": "UTF-8",
+	"hasRun": true,
+	"checksums": [
+		"18463badf26acc0184d1fcaab3457d3ddb5ba54bf5c913229f0ebf9856e98559"
+	]
+}

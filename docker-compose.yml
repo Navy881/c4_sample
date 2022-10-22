@@ -5,3 +5,5 @@ services:
         build: .
         container_name: c4_sample-app
         restart: on-failure
+        ports:
+            - 5001:5001

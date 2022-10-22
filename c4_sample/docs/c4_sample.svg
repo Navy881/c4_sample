@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1214px" preserveAspectRatio="none" style="width:886px;height:1214px;background:#FFFFFF;" version="1.1" viewBox="0 0 886 1214" width="886px" zoomAndPan="magnify"><defs/><g><rect height="27.6094" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="90" x="391" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="80" x="396" y="24.5332">Sweet cash</text><!--MD5=[09d1f87c60ed8be3ebf376e1fcb6f64a]
+cluster zvuk--><g id="cluster_zvuk"><rect height="700.5" rx="2.5" ry="2.5" style="stroke:#444444;stroke-width:1.0;fill:none;stroke-dasharray:7.0,7.0;" width="676" x="7" y="363.6094"/><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="93" x="298.5" y="382.2188">Sweet_cash</text></g><!--MD5=[6217af0d48b18cf331178f0810d9ee1e]
+entity back--><g id="elem_back"><rect fill="#438DD5" height="72.8281" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="108" x="349" y="575.1094"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="88" x="359" y="601.7188">Sweet cash</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="376" y="619.7676">backend</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="43" x="381.5" y="635.3008">[python]</text></g><!--MD5=[a44b01e280dd2d3a6526eb2bfff54c8b]
+entity sweet_cash_db--><g id="elem_sweet_cash_db"><path d="M137,941.1094 C137,931.1094 234,931.1094 234,931.1094 C234,931.1094 331,931.1094 331,941.1094 L331,1038.1563 C331,1048.1563 234,1048.1563 234,1048.1563 C234,1048.1563 137,1048.1563 137,1038.1563 L137,941.1094 " fill="#438DD5" style="stroke:#3C7FC0;stroke-width:0.5;"/><path d="M137,941.1094 C137,951.1094 234,951.1094 234,951.1094 C234,951.1094 331,951.1094 331,941.1094 " fill="none" style="stroke:#3C7FC0;stroke-width:0.5;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="116" x="176" y="971.7188">Sweet cash DB</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="65" x="201.5" y="987.6914">[PostreSQL]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="232" y="1004.8613"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="147" y="1022.4707">users, events, transactions,</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="106" x="181" y="1040.0801">receipts, session</text></g><!--MD5=[0d140a75fc847a912098a36007154834]
+entity sweet_cash_cache--><g id="elem_sweet_cash_cache"><path d="M161,750.1094 C161,740.1094 241,740.1094 241,740.1094 C241,740.1094 321,740.1094 321,750.1094 L321,829.5469 C321,839.5469 241,839.5469 241,839.5469 C241,839.5469 161,839.5469 161,829.5469 L161,750.1094 " fill="#438DD5" style="stroke:#3C7FC0;stroke-width:0.5;"/><path d="M161,750.1094 C161,760.1094 241,760.1094 241,760.1094 C241,760.1094 321,760.1094 321,750.1094 " fill="none" style="stroke:#3C7FC0;stroke-width:0.5;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="138" x="172" y="780.7188">Sweet cash cache</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="38" x="222" y="796.6914">[Redis]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="239" y="813.8613"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="171" y="831.4707">transaction categories</text></g><!--MD5=[f63680ed1c66028a3bc328b35aa4880e]
+entity nalog_ru_intg--><g id="elem_nalog_ru_intg"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="126" x="356" y="762.1094"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="106" x="366" y="788.7188">intg_nalog_ru</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="43" x="397.5" y="804.6914">[python]</text></g><!--MD5=[e29745d789d1cd237fb5892a53e7b9d1]
+entity kafka--><g id="elem_kafka"><path d="M522.5,749.6094 L661.5,749.6094 C666.5,749.6094 666.5,789.8281 666.5,789.8281 C666.5,789.8281 666.5,830.0469 661.5,830.0469 L522.5,830.0469 C517.5,830.0469 517.5,789.8281 517.5,789.8281 C517.5,789.8281 517.5,749.6094 522.5,749.6094 " fill="#438DD5" style="stroke:#3C7FC0;stroke-width:0.5;"/><path d="M661.5,749.6094 C656.5,749.6094 656.5,789.8281 656.5,789.8281 C656.5,830.0469 661.5,830.0469 661.5,830.0469 " fill="none" style="stroke:#3C7FC0;stroke-width:0.5;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="103" x="535.5" y="771.2188">Message Bus</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="37" x="568.5" y="787.1914">[kafka]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="585" y="804.3613"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="522.5" y="821.9707">Transport for events</text></g><!--MD5=[6c43d2e6af88630f7a78f6778e8f008b]
+entity notifier--><g id="elem_notifier"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="73" x="480.5" y="962.1094"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="53" x="490.5" y="988.7188">notifier</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="43" x="495.5" y="1004.6914">[python]</text></g><!--MD5=[c08f331ceeb78e197390f0aa0cd1c858]
+entity telegram_bot--><g id="elem_telegram_bot"><rect fill="#438DD5" height="72.8281" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="108" x="512" y="402.6094"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="88" x="522" y="429.2188">Sweet cash</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="526.5" y="447.2676">telegram bot</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="43" x="544.5" y="462.8008">[python]</text></g><!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
+entity user--><g id="elem_user"><rect fill="#686868" height="88.125" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="68" x="369" y="45.6094"/><image height="48" width="48" x="379" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAABkElEQVR42u2YrY+EMBDF5889vRqNRqPRaDQajT6Nxnd/YZPLJUA7dFpgN/vUhjTblzdfbyo/N4N8FKGqqvq+H8fxd8EwDG3bFkVxAaGmaeZ5djuAYlmWJxF6PB6I4RRAreyEYOMRZo2u6/ISUmrzHwQ3FyFC4KKArukJ8acuFlRiekIo7wxIT4hKthCiYyUmdKi4LC1AS8jZoK//tyU0TZOFkL4baQkxOO+V1JaypyCydOroQjs00d52dES3x7qu89qPQ+UWYYliHKNSp6PamCwsl3mkokccyptkJh/jTFC4flyAzaA7RFP5xDXoSkJsW+QNAeoWBLccDr9OEkTmhj6OoumHm/nLx1fScF+5gB8c3qtBvmsmmvgXU6Mv26TlV0uSD4ogkNazbksOS6+Z/3s6yWZ3cflB7LSEjAuGce7KJfL8JVOYEJXsTsQ6uyWtmbebf0m77tjdraR6UYgDTuFehNbF/yV0c0KBHLI/u9ifaeTksRocsRuzjN5wztzYtJ2ytxDizups8Djg79YRwhNbRegxSU73LwAAAABJRU5ErkJggg==" y="55.6094"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="36" x="385" y="120.2188">User</text></g><!--MD5=[79a439086b036a57b90a01d7b2f8bbd1]
+entity admin--><g id="elem_admin"><rect fill="#686868" height="88.125" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="123" x="699.5" y="395.1094"/><image height="48" width="48" x="737" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAABkElEQVR42u2YrY+EMBDF5889vRqNRqPRaDQajT6Nxnd/YZPLJUA7dFpgN/vUhjTblzdfbyo/N4N8FKGqqvq+H8fxd8EwDG3bFkVxAaGmaeZ5djuAYlmWJxF6PB6I4RRAreyEYOMRZo2u6/ISUmrzHwQ3FyFC4KKArukJ8acuFlRiekIo7wxIT4hKthCiYyUmdKi4LC1AS8jZoK//tyU0TZOFkL4baQkxOO+V1JaypyCydOroQjs00d52dES3x7qu89qPQ+UWYYliHKNSp6PamCwsl3mkokccyptkJh/jTFC4flyAzaA7RFP5xDXoSkJsW+QNAeoWBLccDr9OEkTmhj6OoumHm/nLx1fScF+5gB8c3qtBvmsmmvgXU6Mv26TlV0uSD4ogkNazbksOS6+Z/3s6yWZ3cflB7LSEjAuGce7KJfL8JVOYEJXsTsQ6uyWtmbebf0m77tjdraR6UYgDTuFehNbF/yV0c0KBHLI/u9ifaeTksRocsRuzjN5wztzYtJ2ytxDizups8Djg79YRwhNbRegxSU73LwAAAABJRU5ErkJggg==" y="405.1094"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="103" x="709.5" y="469.7188">Administrator</text></g><!--MD5=[08af8945a84acfe1eabc0963aa87c412]
+entity web--><g id="elem_web"><rect fill="#438DD5" height="90.4375" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="85" x="223.5" y="210.6094"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="65" x="233.5" y="237.2188">Web site</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="30" x="251" y="253.1914">[html]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="264" y="270.3613"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="12" x="260" y="287.9707">UI</text></g><!--MD5=[99c5416311fbf9d118be657efd773f39]
+entity ma--><g id="elem_ma"><rect fill="#438DD5" height="90.4375" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="105" x="350.5" y="210.6094"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="85" x="360.5" y="237.2188">Mobile App</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="49" x="378.5" y="253.1914">[Android]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="401" y="270.3613"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="12" x="397" y="287.9707">UI</text></g><!--MD5=[1703c655329a950778469ec699a4d2ed]
+entity telegram_app--><g id="elem_telegram_app"><rect fill="#438DD5" height="40.125" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="124" x="497" y="235.6094"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="104" x="507" y="262.2188">Telegram app</text></g><!--MD5=[99ef87774aaac4e014a4cb072a041e48]
+entity nalog_ru--><g id="elem_nalog_ru"><rect fill="#999999" height="40.125" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="93" x="699.5" y="969.6094"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="73" x="709.5" y="996.2188">Nalog RU</text></g><!--MD5=[527e446aa7374f3224d88208b3cb2cb2]
+link user to ma--><g id="link_user_ma"><path d="M403,133.6994 C403,154.6494 403,180.0194 403,202.0994 " fill="none" id="user-to-ma" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="403,210.3794,406,202.3794,400,202.3794,403,210.3794" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="29" x="404" y="177.0664">Uses</text></g><!--MD5=[b40267574027cc07176494ec281baea8]
+link user to web--><g id="link_user_web"><path d="M368.78,131.5694 C350.38,153.6094 327.52,180.9694 308.04,204.2894 " fill="none" id="user-to-web" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="302.9,210.4394,310.33,206.2209,305.7242,202.3756,302.9,210.4394" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="29" x="339" y="177.0664">Uses</text></g><!--MD5=[8c38a0963c99a3c8492855a1898772bc]
+link web to back--><g id="link_web_back"><path d="M272.29,300.9894 C279.92,347.6994 295.1,422.6694 321,483.1094 C333.98,513.3994 353.88,544.5694 370.83,568.4994 " fill="none" id="web-to-back" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="375.52,575.0594,373.2993,566.809,368.422,570.3035,375.52,575.0594" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="29" x="343.5" y="436.5664">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="72" x="322" y="451.6602">[JSON/HTTP]</text></g><!--MD5=[14e73c7afd4c64f895c687e6240a4fcd]
+link ma to back--><g id="link_ma_back"><path d="M403,300.7294 C403,368.7994 403,498.6794 403,566.6494 " fill="none" id="ma-to-back" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="403,575.0294,406,567.0294,400,567.0294,403,575.0294" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="29" x="425.5" y="436.5664">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="72" x="404" y="451.6602">[JSON/HTTP]</text></g><!--MD5=[21a7ac41d75cf260142d697145aa3f89]
+link admin to back--><g id="link_admin_back"><path d="M699.34,478.2894 C663.95,499.3794 618.29,525.2494 576,545.1094 C540.07,561.9794 498.51,577.8294 465.13,589.7094 " fill="none" id="admin-to-back" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="457.27,592.4894,465.8126,592.6465,463.8095,586.9907,457.27,592.4894" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="45" x="652.5" y="526.5664">Manage</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="72" x="639" y="541.6602">[JSON/HTTP]</text></g><!--MD5=[a9a5a20db53c39b46edfb4b589626add]
+link back to sweet_cash_db--><g id="link_back_sweet_cash_db"><path d="M348.91,615.7494 C272.89,623.4094 136.84,649.7294 75,740.1094 C50.15,776.4194 57.54,798.7194 75,839.1094 C89.47,872.5694 115.52,901.9994 142.41,925.6994 " fill="none" id="back-to-sweet_cash_db" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="148.52,930.9794,144.4244,923.481,140.5038,928.0229,148.52,930.9794" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="29" x="94.5" y="787.0664">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="66" x="76" y="802.1602">[SQL Driver]</text></g><!--MD5=[2df6c8f4d31a442a817e7f8a07be565c]
+link back to sweet_cash_cache--><g id="link_back_sweet_cash_cache"><path d="M348.92,648.3094 C337.1,657.3294 325.11,667.4894 315,678.1094 C299.34,694.5694 284.78,714.7094 272.8,733.2594 " fill="none" id="back-to-sweet_cash_cache" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="268.5,740.0094,275.326,734.8707,270.264,731.6495,268.5,740.0094" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="29" x="338.5" y="691.5664">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="74" x="316" y="706.6602">[Redis Driver]</text></g><!--MD5=[f1f4668af2d8fab97d364936f094c4ab]
+link back to nalog_ru_intg--><g id="link_back_nalog_ru_intg"><path d="M401.07,648.2894 C400.63,657.9694 400.22,668.4394 400,678.1094 C399.67,692.3294 398.32,695.9894 400,710.1094 C401.75,724.7794 405.28,740.6594 408.82,754.2794 " fill="none" id="back-to-nalog_ru_intg" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="410.9,762.0094,411.7266,753.5055,405.9312,755.0588,410.9,762.0094" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="29" x="422.5" y="691.5664">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="72" x="401" y="706.6602">[JSON/HTTP]</text></g><!--MD5=[3b0d974810b083c264c98b12e3880f57]
+link nalog_ru_intg to sweet_cash_db--><g id="link_nalog_ru_intg_sweet_cash_db"><path d="M394.05,817.3094 C368.5,844.6494 327.84,888.1694 293.9,924.4994 " fill="none" id="nalog_ru_intg-to-sweet_cash_db" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="288.08,930.7294,295.733,926.9306,291.3481,922.8351,288.08,930.7294" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="29" x="362.5" y="882.5664">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="66" x="344" y="897.6602">[SQL Driver]</text></g><!--MD5=[6d574ebbbe4cc952ca27cf61a5551bed]
+link back to kafka--><g id="link_back_kafka"><path d="M444.6,648.2694 C455.57,657.8494 467.31,668.2794 478,678.1094 C501.08,699.3494 526.17,723.5394 546.92,743.8594 " fill="none" id="back-to-kafka" style="stroke:#00008B;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#00008B" points="552.65,749.4894,549.0458,741.7428,544.8408,746.0228,552.65,749.4894" style="stroke:#00008B;stroke-width:1.0;"/><text fill="#00008B" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="63" x="552.5" y="691.5664">Send event</text><text fill="#00008B" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="148" x="510" y="706.6602">[Topic: events_participants]</text></g><!--MD5=[bdda536402e75d8ae94f37d0fbfe2312]
+link kafka to notifier--><g id="link_kafka_notifier"><path d="M570.83,829.9494 C564.64,842.2894 558.15,856.0894 553,869.1094 C541.9,897.1694 532.22,930.0594 525.7,954.2294 " fill="none" id="kafka-to-notifier" style="stroke:#00008B;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#00008B" points="523.62,962.0694,528.5768,955.1102,522.7787,953.5669,523.62,962.0694" style="stroke:#00008B;stroke-width:1.0;"/><text fill="#00008B" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="53" x="601.5" y="882.5664">Get event</text><text fill="#00008B" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="148" x="554" y="897.6602">[Topic: events_participants]</text></g><!--MD5=[0ebc9d47cf911761f6a3b169278ee7d6]
+link telegram_bot to back--><g id="link_telegram_bot_back"><path d="M531.83,475.8494 C505.86,503.0194 470.07,540.4494 442.81,568.9694 " fill="none" id="telegram_bot-to-back" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="437.13,574.9094,444.8258,571.198,440.4879,567.0529,437.13,574.9094" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="29" x="516.5" y="526.5664">Uses</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="72" x="495" y="541.6602">[JSON/HTTP]</text></g><!--MD5=[39a6671c343772423bfc33b5a4d59295]
+link telegram_app to telegram_bot--><g id="link_telegram_app_telegram_bot"><path d="M559.74,275.6894 C560.81,303.6094 562.85,356.3894 564.31,394.2094 " fill="none" id="telegram_app-to-telegram_bot" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="564.63,402.5194,567.3281,394.4126,561.3323,394.6374,564.63,402.5194" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="29" x="563" y="344.0664">Uses</text></g><!--MD5=[bbb258da2947f4a54d68656dc5445301]
+link user to telegram_app--><g id="link_user_telegram_app"><path d="M437.23,126.5994 C466.92,157.8094 509.11,202.1594 535.23,229.6194 " fill="none" id="user-to-telegram_app" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="540.87,235.5494,537.5223,227.6885,533.179,231.8281,540.87,235.5494" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="29" x="486" y="177.0664">Uses</text></g><!--MD5=[45ca15ff59eca2b85ff089afe4b80f0b]
+link nalog_ru_intg to nalog_ru--><g id="link_nalog_ru_intg_nalog_ru"><path d="M456.59,817.3294 C469.76,825.5294 485.02,833.7794 500,839.1094 C587.59,870.2594 635.88,809.2494 707,869.1094 C734.09,891.9094 742.5,933.7994 745.04,961.4294 " fill="none" id="nalog_ru_intg-to-nalog_ru" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="745.65,969.5094,748.0422,961.3071,742.059,961.7566,745.65,969.5094" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="149" x="729" y="882.5664">Auth and get receipts data</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="72" x="767.5" y="897.6602">[JSON/HTTP]</text></g><rect height="121.6563" rx="7.5" ry="7.5" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="248" x="616" y="1077.1094"/><rect height="17.6094" style="stroke:none;stroke-width:1.0;fill:none;" width="236" x="622" y="1085.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="53" x="622" y="1099.6426">Legend</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="675" y="1099.6426"> </text><rect fill="#438DD5" height="17.6094" style="stroke:none;stroke-width:1.0;" width="236" x="622" y="1102.7188"/><text fill="#3C7FC0" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="14" x="626" y="1117.252">▯</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="640" y="1117.252"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="648" y="1117.252">container</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="711" y="1117.252"> </text><rect fill="#686868" height="17.6094" style="stroke:none;stroke-width:1.0;" width="236" x="622" y="1120.3281"/><text fill="#8A8A8A" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="14" x="626" y="1134.8613">▯</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="640" y="1134.8613"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="648" y="1134.8613">external_person</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="754" y="1134.8613"> </text><rect fill="#999999" height="17.6094" style="stroke:none;stroke-width:1.0;" width="236" x="622" y="1137.9375"/><text fill="#8A8A8A" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="14" x="626" y="1152.4707">▯</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="640" y="1152.4707"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="648" y="1152.4707">external_system</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="754" y="1152.4707"> </text><rect height="17.6094" style="stroke:none;stroke-width:1.0;fill:none;" width="236" x="622" y="1155.5469"/><text fill="#444444" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="14" x="626" y="1170.0801">▯</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="640" y="1170.0801"> </text><text fill="#444444" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="202" x="648" y="1170.0801">boundary (dashed, transparent)</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="854" y="1170.0801"> </text><text fill="#00008B" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="14" x="626" y="1187.6895">─</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="640" y="1187.6895"> </text><text fill="#00008B" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="648" y="1187.6895">messages (dashed)</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="777" y="1187.6895"> </text><line style="stroke:#00000000;stroke-width:1.0;" x1="622" x2="858" y1="1085.1094" y2="1085.1094"/><line style="stroke:#00000000;stroke-width:1.0;" x1="622" x2="858" y1="1102.7188" y2="1102.7188"/><line style="stroke:#00000000;stroke-width:1.0;" x1="622" x2="858" y1="1120.3281" y2="1120.3281"/><line style="stroke:#00000000;stroke-width:1.0;" x1="622" x2="858" y1="1137.9375" y2="1137.9375"/><line style="stroke:#00000000;stroke-width:1.0;" x1="622" x2="858" y1="1155.5469" y2="1155.5469"/><line style="stroke:#00000000;stroke-width:1.0;" x1="622" x2="858" y1="1173.1563" y2="1173.1563"/><line style="stroke:#00000000;stroke-width:1.0;" x1="622" x2="858" y1="1190.7656" y2="1190.7656"/><line style="stroke:#00000000;stroke-width:1.0;" x1="622" x2="622" y1="1085.1094" y2="1190.7656"/><line style="stroke:#00000000;stroke-width:1.0;" x1="858" x2="858" y1="1085.1094" y2="1190.7656"/><!--MD5=[8a2ed70e2a4d952a2c916c8243ef6cf2]
+@startuml Sweet_cash
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+LAYOUT_WITH_LEGEND()
+LAYOUT_TOP_DOWN()
+
+AddRelTag("messages", $textColor="DarkBlue", $lineColor="DarkBlue", $lineStyle=DashedLine())
+
+title Sweet cash
+
+Person_Ext(user, "User")
+Person_Ext(admin, "Administrator")
+
+Container(web, "Web site", "html", "UI")
+Container(ma, "Mobile App", "Android", "UI")
+Rel(user, ma, "Uses")
+Rel(user, web, "Uses")
+
+Boundary(zvuk, "Sweet_cash"){
+    Container(back, "Sweet cash\nbackend", "python")
+    Rel(web, back, "Uses", "JSON/HTTP")
+    Rel(ma, back, "Uses", "JSON/HTTP")
+    Rel(admin, back, "Manage", "JSON/HTTP")
+
+    ContainerDb(sweet_cash_db, "Sweet cash DB", "PostreSQL", "users, events, transactions,\nreceipts, session")
+    Rel(back, sweet_cash_db, "Uses", "SQL Driver")    
+
+    ContainerDb(sweet_cash_cache, "Sweet cash cache", "Redis", "transaction categories")
+    Rel(back, sweet_cash_cache, "Uses", "Redis Driver")   
+
+    Container(nalog_ru_intg, "intg_nalog_ru", "python")
+    Rel(back, nalog_ru_intg, "Uses", "JSON/HTTP")
+    Rel(nalog_ru_intg, sweet_cash_db, "Uses", "SQL Driver")  
+
+    ContainerQueue(kafka, "Message Bus", "kafka", "Transport for events")
+    Rel(back, kafka, "Send event", "Topic: events_participants", $tags="messages")
+
+    Container(notifier, "notifier", "python")
+    Rel(kafka, notifier, "Get event", "Topic: events_participants", $tags="messages")
+
+    Container(telegram_bot, "Sweet cash\ntelegram bot", "python")
+    Rel(telegram_bot, back, "Uses", "JSON/HTTP")
+}
+
+Container(telegram_app, "Telegram app")
+Rel(telegram_app, telegram_bot, "Uses")
+Rel(user, telegram_app, "Uses")
+
+System_Ext(nalog_ru, "Nalog RU")
+Rel(nalog_ru_intg, nalog_ru, "Auth and get receipts data", "JSON/HTTP")
+
+SHOW_LEGEND()
+
+@enduml
+
+@startuml Sweet_cash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam LegendBorderColor transparent
+skinparam LegendBackgroundColor transparent
+skinparam LegendFontColor #FFFFFF
+
+skinparam shadowing<<legendArea>> false
+skinparam rectangle<<legendArea>> {
+    backgroundcolor #00000000
+    bordercolor #00000000
+}
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam queue {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam actor {
+    StereotypeFontSize 12
+    shadowing false
+    style awesome
+}
+
+skinparam person {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 6
+    StereotypeFontColor transparent
+    BorderStyle dashed
+}
+
+skinparam package {
+    StereotypeFontSize 6
+    StereotypeFontColor transparent
+    FontStyle plain
+    BackgroundColor transparent
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam database<<boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam queue<<boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam actor<<boundary>> {
+    FontColor transparent
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam person<<boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam package<<boundary>>StereotypeFontColor transparent
+skinparam rectangle<<boundary>>StereotypeFontColor transparent
+
+
+skinparam rectangle<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam database<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam queue<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam actor<<enterprise_boundary>> {
+    FontColor transparent
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam person<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam package<<enterprise_boundary>>StereotypeFontColor transparent
+skinparam rectangle<<enterprise_boundary>>StereotypeFontColor transparent
+
+
+
+skinparam rectangle<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam database<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam queue<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam actor<<system_boundary>> {
+    FontColor transparent
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam person<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam package<<system_boundary>>StereotypeFontColor transparent
+skinparam rectangle<<system_boundary>>StereotypeFontColor transparent
+
+
+
+skinparam rectangle<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam database<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam queue<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam actor<<container_boundary>> {
+    FontColor transparent
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam person<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam package<<container_boundary>>StereotypeFontColor transparent
+skinparam rectangle<<container_boundary>>StereotypeFontColor transparent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam database<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam queue<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam actor<<person>> {
+    StereotypeFontColor #08427B
+    FontColor #08427B
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+skinparam person<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam database<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam queue<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam actor<<external_person>> {
+    StereotypeFontColor #686868
+    FontColor #686868
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+skinparam person<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam queue<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam actor<<system>> {
+    StereotypeFontColor #1168BD
+    FontColor #1168BD
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+skinparam person<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam queue<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam actor<<external_system>> {
+    StereotypeFontColor #999999
+    FontColor #999999
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+skinparam person<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+
+
+skinparam rectangle<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam database<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam queue<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam actor<<enterprise_boundary>> {
+    FontColor transparent
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam person<<enterprise_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam package<<enterprise_boundary>>StereotypeFontColor transparent
+skinparam rectangle<<enterprise_boundary>>StereotypeFontColor transparent
+
+
+
+skinparam rectangle<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam database<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam queue<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam actor<<system_boundary>> {
+    FontColor transparent
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam person<<system_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam package<<system_boundary>>StereotypeFontColor transparent
+skinparam rectangle<<system_boundary>>StereotypeFontColor transparent
+
+
+
+
+
+
+
+sprite $person [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000025788300000000005886410000000000000
+000000000007DFFFFFFD9643347BFFFFFFFB400000000000
+0000000004EFFFFFFFFFFFFFFFFFFFFFFFFFFB1000000000
+000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD200000000
+00000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE10000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0000000
+000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF200000
+00000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000
+00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF700000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+0000008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3000000
+000000014555555555555555555555555555555300000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+sprite $person2 [48x48/16] {
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000002578888300000000005888864100000000000
+0000000007DFFFFFFFFD9643347BFFFFFFFFFB4000000000
+00000004EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB10000000
+0000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD2000000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+00003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+0000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF50000
+0003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD0000
+0009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF2000
+000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6000
+000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA000
+000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000
+000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6000
+0009FFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFFF2000
+0003FFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFFD0000
+0000BFFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFF50000
+00003FFFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFFB00000
+000006FFFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFFE100000
+0000007FFFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFFD2000000
+00000004EFFF8FFFFFFFFFFFFFFFFFFFFFF8FFFB10000000
+0000000007DF8FFFFFFFFFFFFFFFFFFFFFF8FB4000000000
+000000000002578888888888888888888864100000000000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam queue<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam actor<<container>> {
+    StereotypeFontColor #438DD5
+    FontColor #438DD5
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+skinparam person<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+
+skinparam rectangle<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam database<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam queue<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam actor<<external_container>> {
+    StereotypeFontColor #B3B3B3
+    FontColor #B3B3B3
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+skinparam person<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+
+
+
+skinparam rectangle<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam database<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam queue<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam actor<<container_boundary>> {
+    FontColor transparent
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam person<<container_boundary>> {
+    FontColor #444444
+    BackgroundColor transparent
+    BorderColor #444444
+}
+skinparam package<<container_boundary>>StereotypeFontColor transparent
+skinparam rectangle<<container_boundary>>StereotypeFontColor transparent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hide stereotype
+legend right
+|<color:#000000>**Legend**</color> |
+|<#08427B> person |
+|<#1168BD> system |
+|<#438DD5> container |
+|<#686868> external person |
+|<#999999> external system |
+|<#B3B3B3> external container |
+endlegend
+top to bottom direction
+
+skinparam arrow<<messages>> {
+    Color DarkBlue;text:DarkBlue;line.dashed
+}
+
+
+title Sweet cash
+
+rectangle "<$person>\n==User" <<external_person>> as user 
+rectangle "<$person>\n==Administrator" <<external_person>> as admin 
+
+rectangle "==Web site\n//<size:12>[html]</size>//\n\nUI" <<container>> as web 
+rectangle "==Mobile App\n//<size:12>[Android]</size>//\n\nUI" <<container>> as ma 
+user - ->> ma : **Uses**
+user - ->> web : **Uses**
+
+rectangle "==Sweet_cash" <<boundary>> as zvuk {
+    rectangle "==Sweet cash\nbackend\n//<size:12>[python]</size>//" <<container>> as back 
+    web - ->> back : **Uses**\n//<size:12>[JSON/HTTP]</size>//
+    ma - ->> back : **Uses**\n//<size:12>[JSON/HTTP]</size>//
+    admin - ->> back : **Manage**\n//<size:12>[JSON/HTTP]</size>//
+
+    database "==Sweet cash DB\n//<size:12>[PostreSQL]</size>//\n\nusers, events, transactions,\nreceipts, session" <<container>> as sweet_cash_db 
+    back - ->> sweet_cash_db : **Uses**\n//<size:12>[SQL Driver]</size>//    
+
+    database "==Sweet cash cache\n//<size:12>[Redis]</size>//\n\ntransaction categories" <<container>> as sweet_cash_cache 
+    back - ->> sweet_cash_cache : **Uses**\n//<size:12>[Redis Driver]</size>//   
+
+    rectangle "==intg_nalog_ru\n//<size:12>[python]</size>//" <<container>> as nalog_ru_intg 
+    back - ->> nalog_ru_intg : **Uses**\n//<size:12>[JSON/HTTP]</size>//
+    nalog_ru_intg - ->> sweet_cash_db : **Uses**\n//<size:12>[SQL Driver]</size>//  
+
+    queue "==Message Bus\n//<size:12>[kafka]</size>//\n\nTransport for events" <<container>> as kafka 
+    back - ->> kafka <<messages>> : **Send event**\n//<size:12>[Topic: events_participants]</size>//
+
+    rectangle "==notifier\n//<size:12>[python]</size>//" <<container>> as notifier 
+    kafka - ->> notifier <<messages>> : **Get event**\n//<size:12>[Topic: events_participants]</size>//
+
+    rectangle "==Sweet cash\ntelegram bot\n//<size:12>[python]</size>//" <<container>> as telegram_bot 
+    telegram_bot - ->> back : **Uses**\n//<size:12>[JSON/HTTP]</size>//
+}
+
+rectangle "==Telegram app" <<container>> as telegram_app 
+telegram_app - ->> telegram_bot : **Uses**
+user - ->> telegram_app : **Uses**
+
+rectangle "==Nalog RU" <<external_system>> as nalog_ru 
+nalog_ru_intg - ->> nalog_ru : **Auth and get receipts data**\n//<size:12>[JSON/HTTP]</size>//
+
+hide stereotype
+legend right
+<#00000000,#00000000>|<color:#000000>**Legend**</color> |
+|<#438DD5><color:#3C7FC0> <U+25AF></color> <color:#FFFFFF> container </color> |
+|<#686868><color:#8A8A8A> <U+25AF></color> <color:#FFFFFF> external_person </color> |
+|<#999999><color:#8A8A8A> <U+25AF></color> <color:#FFFFFF> external_system </color> |
+|<#transparent><color:#444444> <U+25AF></color> <color:#444444> boundary (dashed, transparent) </color> |
+|<color:DarkBlue> <U+2500></color> <color:DarkBlue> messages (dashed) </color> |
+endlegend
+
+@enduml
+
+PlantUML version 1.2022.3(Tue Mar 29 19:10:57 MSK 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>
