@@ -1,0 +1,54 @@
+@startuml Sweet_cash
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+LAYOUT_WITH_LEGEND()
+LAYOUT_TOP_DOWN()
+
+AddRelTag("messages", $textColor="DarkBlue", $lineColor="DarkBlue", $lineStyle=DashedLine())
+
+title Sweet cash
+
+Person_Ext(user, "User")
+Person_Ext(admin, "Administrator")
+
+Container(web, "Web site", "html", "UI")
+Container(ma, "Mobile App", "Android", "UI")
+Rel(user, ma, "Uses")
+Rel(user, web, "Uses")
+
+Boundary(zvuk, "Sweet_cash"){
+    Container(back, "Sweet cash\nbackend", "python")
+    Rel(web, back, "Uses", "JSON/HTTP")
+    Rel(ma, back, "Uses", "JSON/HTTP")
+    Rel(admin, back, "Manage", "JSON/HTTP")
+
+    ContainerDb(sweet_cash_db, "Sweet cash DB", "PostreSQL", "users, events, transactions,\nreceipts, session")
+    Rel(back, sweet_cash_db, "Uses", "SQL Driver")    
+
+    ContainerDb(sweet_cash_cache, "Sweet cash cache", "Redis", "transaction categories")
+    Rel(back, sweet_cash_cache, "Uses", "Redis Driver")   
+
+    Container(nalog_ru_intg, "intg_nalog_ru", "python")
+    Rel(back, nalog_ru_intg, "Uses", "JSON/HTTP")
+    Rel(nalog_ru_intg, sweet_cash_db, "Uses", "SQL Driver")  
+
+    ContainerQueue(kafka, "Message Bus", "kafka", "Transport for events")
+    Rel(back, kafka, "Send event", "Topic: events_participants", $tags="messages")
+
+    Container(notifier, "notifier", "python")
+    Rel(kafka, notifier, "Get event", "Topic: events_participants", $tags="messages")
+
+    Container(telegram_bot, "Sweet cash\ntelegram bot", "python")
+    Rel(telegram_bot, back, "Uses", "JSON/HTTP")
+}
+
+Container(telegram_app, "Telegram app")
+Rel(telegram_app, telegram_bot, "Uses")
+Rel(user, telegram_app, "Uses")
+
+System_Ext(nalog_ru, "Nalog RU")
+Rel(nalog_ru_intg, nalog_ru, "Auth and get receipts data", "JSON/HTTP")
+
+SHOW_LEGEND()
+
+@enduml

@@ -1,0 +1,7 @@
+version: "3.8"
+
+services:
+    c4_sample:
+        build: .
+        container_name: c4_sample-app
+        restart: on-failure
